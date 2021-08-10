@@ -8,9 +8,12 @@ Below you can find some info on my work.
 
 **Enjoy!**
 
-[![Otavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioCantareli&show_icons=true&theme=dracula)](https://github.com/OtavioCantareli/github-readme-stats)
+[![Otavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioCantareli&show_icons=true&theme=dracula)]
 <br/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioCantareli)](https://github.com/OtavioCantareli/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioCantareli)]
+<br/>
+[![Otavio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OtavioCantareli)]
+
 
 I hope you liked my profile! If you'd like to keep updated, you know where to find me :p 
 
