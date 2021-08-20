@@ -12,7 +12,7 @@ Below you can find some info on my work.
 <br/>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioCantareli)]
 <br/>
-[![Otavio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OtavioCantareli)]
+[![Otavio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@OtavioCantareli)]
 
 
 I hope you liked my profile! If you'd like to keep updated, you know where to find me :p 
