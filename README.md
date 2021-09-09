@@ -10,7 +10,7 @@ Below you can find some info on my work.
 
 [![Otavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioCantareli&show_icons=true&theme=dracula)]
 <br/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioCantareli)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioCantareli&layout=compact&langs_count=10)]
 <br/>
 
 
