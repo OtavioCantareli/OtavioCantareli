@@ -8,7 +8,7 @@ Below you can find some info on my work.
 
 **Enjoy!**
 
-[![Otavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioCantareli&show_icons=true&theme=dracula)]
+[![Otavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioCantareli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)]
 <br/>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioCantareli&layout=compact&langs_count=10)]
 <br/>
